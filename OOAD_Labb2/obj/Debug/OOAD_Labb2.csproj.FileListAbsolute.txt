@@ -1,0 +1,8 @@
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/bin/Debug/OOAD_Labb2.exe
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/bin/Debug/OOAD_Labb2.pdb
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/bin/Debug/Newtonsoft.Json.dll
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/bin/Debug/Newtonsoft.Json.xml
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/obj/Debug/OOAD_Labb2.csprojAssemblyReference.cache
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/obj/Debug/OOAD_Labb2.csproj.CopyComplete
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/obj/Debug/OOAD_Labb2.exe
+/Users/bejan/Projects/OOAD_Labb2/OOAD_Labb2/obj/Debug/OOAD_Labb2.pdb
